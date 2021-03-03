@@ -6,7 +6,7 @@ namespace FinalTask_13._1
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			string path = "Text.txt";
 		}
 	}
 }
